@@ -1,0 +1,51 @@
+
+
+.header {
+    height: 5vh;
+    background: rgb(182, 182, 182);
+    display: flex;
+    box-sizing: border-box;
+      
+}
+.footer {
+    height: 5vh;
+    background: rgb(182, 182, 182);
+    display: flex;
+    box-sizing: border-box;
+}
+
+.subheader {
+    float: right;
+}
+
+.mainbody {
+    top: 114px;
+    bottom: 64px;
+    left: 114px;
+    right: 114px;
+}
+
+footer {
+    bottom: 5px;
+    height: 10px;
+    left: 5px;
+    right: 5px;
+    font-size: 8px;
+    color: #999999;
+    text-align: center;
+    position: fixed;
+}
+
+.column-right {
+    float: right;
+    width: 50%;
+}
+
+.column-left {
+    float: left;
+    width: 50%;
+}
+
+.bold {
+    font-weight: bold;
+}
